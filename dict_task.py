@@ -12,4 +12,4 @@ print(story1["start"])
 print(story1["middle"])
 print(story1["end"])
 
-story1["hero"] = "Batman"
+story1["hero"] = "Batman" # adding key: value pair
